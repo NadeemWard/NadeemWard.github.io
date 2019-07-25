@@ -1,0 +1,18 @@
+<style>
+    img{
+
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  border-radius: 50%;
+
+
+}
+</style>
+
+
+<figure>
+    <img class="image" src="{{ include.image }}" alt="{{ include.alt | default: include.caption }}" />
+  {% if include.caption %}<figcaption class="caption">{{ include.caption }}</figcaption>{% endif %}
+</figure>
+
