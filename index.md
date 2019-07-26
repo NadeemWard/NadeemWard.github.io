@@ -17,8 +17,15 @@ I'm always interested in learning new things and talking to people about machine
 [comment]: <Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.>
 
 
-{% include button.html text="LinkedIn" icon="linkedin" link = "https://www.linkedin.com/in/patrick-nadeem-ward-8aaa5248" color="#0077B5" %}{% include button.html text="Github" icon="github" link="https://github.com/NadeemWard" color="#0366d6" color="#333"%} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/nadeem_ward" color="#0d94e7" %}
+{% include button.html text="LinkedIn" icon="linkedin" link = "https://www.linkedin.com/in/patrick-nadeem-ward-8aaa5248" color="#0077B5" %}{% include button.html text="Github" icon="github" link="https://github.com/NadeemWard" color="#0366d6" color="#333"%} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/nadeem_ward" color="#0d94e7" %}{% include button.html text="CV" link = "assets/Nadeem_Ward_CV.pdf" %}
 
-[comment]: <{% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}>
+## Project Highlights
 
-[comment]: <{% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %} >
+##### ICML 2019 workshop paper
+{% include note.html ref="https://arxiv.org/abs/1906.02771" image = "assets/ICML_NF_workshop_poster-1.png" caption="Some work done at Mila presented at an ICML workshop." width="300" height="400" %}
+
+#### Lectures given at McGill on introductory topics in Reinforcement learning
+{% include note.html ref="https://github.com/NadeemWard/Intro-RL-course-tutorials" image = "assets/nn.gif" caption="Tutorials on introductory Reinforcement Learning topics as part of my Lectures for a course at McGill taught to Master students in the Management department." width="300" height="300" %}
+
+#### Implementation of basic policy gradient algorithms used in Reinforcement Learning
+{% include note.html ref="https://github.com/NadeemWard/pytorch_simple_policy_gradients" image = "assets/td_error.png" caption="Reimplementation of REINFORCE and one-step Actor-Critic with and without a baseline network in pytorch." width="450" height="200" %}

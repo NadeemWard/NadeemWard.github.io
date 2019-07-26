@@ -1,18 +1,5 @@
-<style>
-    img{
-
-  width: 300px;
-  height: 300px;
-  overflow: hidden;
-  border-radius: 50%;
-
-
-}
-</style>
-
-
-<figure>
-    <img class="image" src="{{ include.image }}" alt="{{ include.alt | default: include.caption }}" />
-  {% if include.caption %}<figcaption class="caption">{{ include.caption }}</figcaption>{% endif %}
-</figure>
+<a href="{{ include.ref }}">
+    <figure class="figure  figure--{{ include.position | default: 'center' }}">
+        <img src="{{ include.image }}" alt="Avatar" class="image" style="width:{{include.width}}px;height:{{include.height}}px;">
+{% if include.caption %}<figcaption class="caption" align="center">{{ include.caption }}</figcaption>{% endif %}
 

@@ -1,0 +1,37 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+<div class="row">
+  <div class="column">
+	<a href = "{{ include.ref1 }}">
+        <figure>
+            <img src="{{ include.image1 }}" alt="Snow" style="width:{{ include.width1 }}px;height={{ include.height1 }}px;border:5;">
+        {% if include.caption1 %}<figcaption class="caption">{{ include.caption1 }}</figcaption>{% endif %}
+        </figure>
+  	</a>
+  </div>
+  <div class="column">
+    <a href = "{{ include.ref2 }}" >
+        <figure>
+            <img src="{{ include.image2 }}" alt="Forest" style="width:{{ include.width2 }}px;height={{ include.height2 }}px;">
+  	    {% if include.caption2 %}<figcaption class="caption">{{ include.caption2 }}</figcaption>{% endif %}
+        </figure>
+    </a>
+  </div>
+</div>
