@@ -4,7 +4,9 @@ feature_text: |
   ## Nadeem Ward
   Master's Student at Mila/McGill. Passionate about AI.
 feature_image: "https://picsum.photos/1300/400?image=989"
+layout: page
 ---
+
 {% include figure.html image="assets/download.png" width="300" height="300" %}
 
 I'm a second year Master's student at [Mila](https://mila.quebec/en) and the [Reasoning and Learning Lab](rl.cs.mcgill.ca) at McGill University where I work on Reinforcement Learning under the supervision of Prof. Doina Precup. I also hold a Bachelors degree in Mathematics and Software Engineering from McGill University.
@@ -17,7 +19,7 @@ I'm always interested in learning new things and talking to people about machine
 [comment]: <Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.>
 
 
-{% include button.html text="LinkedIn" icon="linkedin" link = "https://www.linkedin.com/in/patrick-nadeem-ward-8aaa5248" color="#0077B5" %}{% include button.html text="Github" icon="github" link="https://github.com/NadeemWard" color="#0366d6" color="#333"%} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/nadeem_ward" color="#0d94e7" %}{% include button.html text="CV" link = "assets/Nadeem_Ward_CV.pdf" %}
+{% include button.html text="LinkedIn" icon="linkedin" link = "https://www.linkedin.com/in/patrick-nadeem-ward-8aaa5248" color="#0077B5" %}{% include button.html text="Github" icon="github" link="https://github.com/NadeemWard" color="#0366d6" color="#333"%} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/nadeem_ward" color="#0d94e7" %}{% include button.html text="Google Scholar" icon="icon-googlescholar" link="https://scholar.google.com/citations?user=BaRxvOkAAAAJ&hl=en" color="#0366d6"%}{% include button.html text="CV" link = "assets/Nadeem_Ward_CV.pdf" %}
 
 ## Project Highlights
 
