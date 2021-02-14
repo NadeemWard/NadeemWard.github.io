@@ -111,8 +111,8 @@ navigation_header:
   url: /
 - title: Projects
   url: /projects/
-- title: Blog
-  url: /blog/
+# - title: Blog
+#  url: /blog/
 
   social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/DavidDarnes
