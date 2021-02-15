@@ -9,7 +9,9 @@ aside: true
 
 ### Publications
 
-[P.N. Ward, A. Smofsky, A. J. Bose (2019) “Improving Exploration in Soft-Actor-Critic with Normalizing Flows Policies” Invertible Neural Networks and Normalizing Flows Workshop ICML 2019.](https://arxiv.org/abs/1906.02771) [(code)](https://github.com/joeybose/FloRL)
+[J. Chakravorty, P.N. Ward, J. Roy, M. Chevalier-Boisvert, S. Basu, A. Lupu, D. Precup (2020) *“Option-Critic in cooperative multi-agent systems”* Extnded Abstract at the International Conference on Autonomous Agents and Mutli-Agent Systems (AAMAS) 2020.](https://arxiv.org/abs/1911.12825)
+
+[P.N. Ward\*, A. Smofsky\*, A. J. Bose (2019) *“Improving Exploration in Soft-Actor-Critic with Normalizing Flows Policies”* Invertible Neural Networks and Normalizing Flows Workshop at the International Conference on Machine Learning (ICML) 2019.](https://arxiv.org/abs/1906.02771) [(code)](https://github.com/joeybose/FloRL)
 
 ### Talks
 

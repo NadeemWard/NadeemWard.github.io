@@ -23,6 +23,9 @@ I'm always interested in learning new things and talking to people about machine
 
 ## Project Highlights
 
+##### AAMAS 2020 paper
+{% include note.html ref="https://arxiv.org/abs/1911.12825" image = "assets/dualSwitch_maxime.png" caption = "Work done at Mila presented at AAMAS 2020 as an extended abstract." width = "300" height = "300" %}
+
 ##### ICML 2019 workshop paper
 {% include note.html ref="https://arxiv.org/abs/1906.02771" image = "assets/ICML_NF_workshop_poster-1.png" caption="Some work done at Mila presented at an ICML workshop." width="300" height="400" %}
 
