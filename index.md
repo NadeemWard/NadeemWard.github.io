@@ -9,7 +9,8 @@ layout: page
 
 {% include figure.html image="assets/download.png" width="300" height="300" %}
 
-I'm a second year Master's student at [Mila](https://mila.quebec/en) and the [Reasoning and Learning Lab](rl.cs.mcgill.ca) at McGill University where I work on Reinforcement Learning under the supervision of Prof. Doina Precup. I also hold a Bachelors degree in Mathematics and Software Engineering from McGill University.
+I'm a second year Master's student at [Mila](https://mila.quebec/en) and the [Reasoning and Learning Lab](http://rl.cs.mcgill.ca) at McGill University where I work on Reinforcement Learning under the supervision of Prof. Doina Precup. I also hold a Bachelors degree in Mathematics and Software Engineering from McGill University.
+
 
 My research interests are broadly focused on getting agents to make "optimal" decisions in complex environements (whatever we decide "optimal" means). This leads me to work at the intersection of Reinforcement Learning and Deep Learning.
 
