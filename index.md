@@ -20,7 +20,7 @@ I'm always interested in learning new things and talking to people about machine
 [comment]: <Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.>
 
 
-{% include button.html text="LinkedIn" icon="linkedin" link = "https://www.linkedin.com/in/patrick-nadeem-ward-8aaa5248" color="#0077B5" %}{% include button.html text="Github" icon="github" link="https://github.com/NadeemWard" color="#0366d6" color="#333"%}{% include button.html text="Google Scholar" icon="icon-googlescholar" link="https://scholar.google.com/citations?user=BaRxvOkAAAAJ&hl=en" color="#0366d6"%}{% include button.html text="CV" link = "assets/PatrickNadeemWard_CV.pdf" color="#525252"%}
+{% include button.html text="LinkedIn" icon="linkedin" link = "https://www.linkedin.com/in/patrick-nadeem-ward-8aaa5248" color="#0077B5" %}{% include button.html text="Github" icon="github" link="https://github.com/NadeemWard" color="#0366d6" color="#333"%}{% include button.html text="Google Scholar" icon="icon-googlescholar" link="https://scholar.google.com/citations?user=BaRxvOkAAAAJ&hl=en" color="#0366d6"%}
 <!-- % include button.html text="Twitter" icon="twitter" link="https://twitter.com/nadeem_ward" color="#0d94e7" % -->
 ## Project Highlights
 
